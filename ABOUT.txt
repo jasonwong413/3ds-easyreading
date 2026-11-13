@@ -1,0 +1,8 @@
+Easy Reading / 易读
+Author: jasonwong
+Version: 1.0.0
+Repository name: easy-reading-3ds
+Description: Landscape ebook reader for Nintendo 3DS with English/Chinese UI and local Wi-Fi book uploads.
+Tag: v1.0.0
+Release title: Easy Reading 1.0.0 — First stable release
+Status: Stable release

@@ -1,0 +1,26 @@
+3dslibris Licensing Overview
+============================
+
+This repository contains `3dslibris` source code together with MuPDF-based
+document rendering components.
+
+Licensing in this tree is therefore split into two layers:
+
+1. Base project code and inherited `dslibris`-derived portions remain under
+   their original `GNU GPL v2 or later` grant, as preserved in file headers and
+   in [LICENSES/GPL-2.0-or-later.txt](LICENSES/GPL-2.0-or-later.txt).
+2. Distributed builds combine that code with MuPDF, whose open-source
+   edition is licensed under the `GNU Affero General Public License v3 or later`
+   in [LICENSES/AGPL-3.0-or-later.txt](LICENSES/AGPL-3.0-or-later.txt).
+
+As a result, the distributed `3dslibris` application should be treated as an
+`AGPL v3 or later` combined work. Preserve the original file-level notices for
+GPL-covered code, and comply with the corresponding-source and notice
+obligations described in:
+
+- [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)
+- [docs/PDF_SOURCE_RELEASE.md](docs/PDF_SOURCE_RELEASE.md)
+
+This file is a repository-level licensing guide. It does not remove or replace
+license notices embedded in individual source files or vendored third-party
+components.
